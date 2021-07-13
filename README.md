@@ -1,2 +1,3 @@
 # hello-world
-Just learning
+Just learning.
+I want to master go language.
